@@ -30,4 +30,4 @@ To run the React app, follow these steps:
 3.Open your web browser and go to http://localhost:3000 to view the app.
 <br />
 
-In the project directory, you can run:
+In the project directory, you can run: myfitness app
