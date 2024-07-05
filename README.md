@@ -4,7 +4,7 @@ A Fitness app built using React and Rapid API where Interface provides the Exerc
 <br />
 Live Link : https://thejasmsfitnessapp.netlify.app
 
-Getting the Code from Github To get the code from Github, follow these steps:
+Getting the Code from Github : <br/> To get the code from Github, follow these steps:
 
 1.Go to the Github repository: https://github.com/thejasgowda001/myfitness-app 
 <br />
